@@ -1,0 +1,12 @@
+{
+  "name": "discordbotjs",
+  "version": "0.1.0",
+  "description": "Learning Discord bot development",
+  "main": "main.js",
+  "repository": "https://github.com/sythm7/discordbotjs.git",
+  "author": "SYTHM. <minematt31@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
